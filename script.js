@@ -58,9 +58,9 @@ ScrollReveal().reveal(".service__card", {
 });
 
 const clientImageArr = [
-	"/assets/client-1.jpg",
-	"/assets/client-2.jpg",
-	"/assets/client-3.jpg",
+	"assets/client-1.jpg",
+	"assets/client-2.jpg",
+	"assets/client-3.jpg",
 ];
 
 const clientImage = document.querySelector(".client__image img");
