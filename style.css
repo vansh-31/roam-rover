@@ -443,6 +443,42 @@ nav {
 .banner__content p {
 	color: var(--extra-light);
 }
+.newsletter__content {
+	max-width: 900px;
+	margin-inline: auto;
+	padding: 4rem 1rem;
+	text-align: center;
+	background-color: var(--primary-color);
+	border-radius: 5px;
+}
+
+.newsletter__content .section__header {
+	color: var(--white);
+}
+
+.newsletter__content .section__description {
+	margin-bottom: 2rem;
+	color: var(--extra-light);
+}
+
+.newsletter__content form {
+	max-width: 450px;
+	margin-inline: auto;
+	padding: 2px;
+	display: flex;
+	align-items: center;
+	background-color: var(--white);
+	border-radius: 5px;
+}
+
+.newsletter__content input {
+	width: 100%;
+	padding: 0.75rem;
+	outline: none;
+	border: none;
+	font-size: 1rem;
+	color: var(--text-dark);
+}
 @media (width> 540px) {
 	.service__grid {
 		grid-template-columns: repeat(2, 1fr);
@@ -526,6 +562,9 @@ nav {
 
 	.client-swiper-btns {
 		justify-content: flex-start;
+	}
+	.newsletter__content :is(.section__header, .section__description) {
+		margin-inline: auto;
 	}
 }
 
