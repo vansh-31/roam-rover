@@ -58,9 +58,9 @@ ScrollReveal().reveal(".service__card", {
 });
 
 const clientImageArr = [
-	"assets/client-1.jpg",
-	"assets/client-2.jpg",
-	"assets/client-3.jpg",
+	"https://raw.githubusercontent.com/vansh-31/roam-rover/master/assets/client-1.jpg",
+	"https://raw.githubusercontent.com/vansh-31/roam-rover/master/assets/client-2.jpg",
+	"https://raw.githubusercontent.com/vansh-31/roam-rover/master/assets/client-3.jpg",
 ];
 
 const clientImage = document.querySelector(".client__image img");
