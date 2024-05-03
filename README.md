@@ -18,4 +18,4 @@ git clone https://github.com/vansh-31/roam-rover.git
 
 ## Contact
 
-For inquiries or feedback regarding Roam Rover, please contact [vanshgawra008@gmail.com].
+For inquiries or feedback regarding Roam Rover, please contact [Me](vanshgawra008@gmail.com).
