@@ -4,7 +4,7 @@ Roam Rover is a simple landing page project developed to improve skills in HTML,
 
 ## Deployment
 
-Roam Rover is deployed using GitHub Pages. Visit [Roam Rover](https://vansh-31.github.io/roam-rover/) to view the landing page.
+Roam Rover is deployed using GitHub Pages. Visit [Roam Rover](https://vansh-31.github.io/roam-rover-website/) to view the landing page.
 
 ## Getting Started
 
